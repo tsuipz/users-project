@@ -14,3 +14,9 @@ This project built to add a user with a username and age. This is to demostrate 
 ## Technologies
 
 - React
+
+## Topics
+
+- JSX Limitations & Fragments
+- Getting a Cleaner DOM wiht Portals
+- Working with Refs
